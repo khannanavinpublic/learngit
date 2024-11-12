@@ -27,7 +27,7 @@ class SimpleGUI(QWidget):
         self.setLayout(layout)
 
     def change_text(self):
-        self.label.setText('Button Clicked!')
+        self.label.setText('Button Clocked!')
 
 # Run the application if this file is executed directly
 if __name__ == "__main__":
